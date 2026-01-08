@@ -1,0 +1,5 @@
+{
+  "name": "160-Gbps OCDMA-FSO Simulator",
+  "description": "An interactive 3D educational visualization of an Optical Code Division Multiple Access (OCDMA) Free Space Optics (FSO) system using Laguerre-Gaussian beams under varying weather conditions.",
+  "requestFramePermissions": []
+}
